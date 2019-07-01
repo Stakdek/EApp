@@ -6,8 +6,8 @@ I would like to have an electron environment with just a few clicks. This enviro
 
 # Using
 * `make prep` install all dependicies into this enviroment
-    * `npm` is required
-    * >Ubuntu 18 is recommended
+    * `npm` is **required**
+    * **Ubuntu 18 or higher** is recommended
 * `make run` start the Electron app in debug mode
 * `make dist` compiles executable for Windows and makes an Debian package
 
