@@ -19,7 +19,7 @@
     "devDependencies": {
         "app-builder-lib": "^20.43.0",
         "child_process": "^1.0.2",
-        "electron": "^5.0.3",
+        "electron": "^9.1.0",
         "electron-builder": "^20.43.0",
         "yarn": "^1.16.0"
     },
